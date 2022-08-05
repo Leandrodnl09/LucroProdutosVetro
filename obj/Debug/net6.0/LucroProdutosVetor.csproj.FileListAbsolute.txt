@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\bin\Debug\net6.0\LucroProdutosVetor.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\bin\Debug\net6.0\LucroProdutosVetor.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\bin\Debug\net6.0\LucroProdutosVetor.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\bin\Debug\net6.0\LucroProdutosVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\bin\Debug\net6.0\LucroProdutosVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\LucroProdutosVetor.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\LucroProdutosVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\LucroProdutosVetor.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\LucroProdutosVetor.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\LucroProdutosVetor.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\LucroProdutosVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\refint\LucroProdutosVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\LucroProdutosVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\LucroProdutosVetor.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\LucroProdutosVetor\obj\Debug\net6.0\ref\LucroProdutosVetor.dll
